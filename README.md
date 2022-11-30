@@ -27,7 +27,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-enesdemir3662&style=for-the-badge)
 
 <p>
-<a href="mailto:01enesdemir05@gmail.com"><img src="https://img.shields.io/badge/Gmail-e82a09.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="[mailto:01enesdemir05@gmail.com](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcSKjgGhmHnzNTSmvLSNWDHBflkpdJGksXPQLrhjWnkLZJGbJMtfBdRWlQMPGmbjBWqHvcxWP)"><img src="https://img.shields.io/badge/Gmail-e82a09.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
  <a href="https://www.linkedin.com/in/enes-demir-a9374422b/%22"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="https://www.instagram.com/enesdemir3662"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
  <a href="https://twitter.com/enesdemir3662"><img src="https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fenesdemir3662" /></a>
